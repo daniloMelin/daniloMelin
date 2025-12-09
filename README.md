@@ -14,7 +14,7 @@ Atualmente, atuo com foco em **Automação de Testes (Playwright/Cypress)**, **T
 
 Minha atuação é comprovada por projetos práticos que simulam ambientes reais de desenvolvimento.
 
-> **📂 [Acesse meu Portfólio Completo de Testes Manuais & Estratégia](./Portfolio-Testes-Manuais)**
+> **📂 [Acesse meu Portfólio Completo de Testes Manuais & Estratégia](./portfolio-testes-manuais)**
 
 Principais cases técnicos desenvolvidos:
 * **🛒 E-commerce Luma:** Gestão de defeitos e validação de regras de negócio (Jira/Zephyr).
