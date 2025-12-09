@@ -2,7 +2,9 @@
 
 ## Analista de Qualidade de Software (QA) | Automação & Estratégia
 
-Sou um profissional em transição de carreira para a tecnologia, trazendo uma **bagagem de 15 anos na indústria aeronáutica (Embraer)**. Minha experiência como Inspetor de Qualidade moldou minha mentalidade voltada para **processos, melhoria contínua (Kaizen/5S) e rigor técnico**, características que hoje aplico para garantir a excelência em software.
+Sou um **Analista de Quality Assurance** focado em garantir a excelência de produtos digitais através de automação de testes, validação de APIs e melhoria contínua de processos.
+
+Minha atuação em tecnologia é potencializada por uma **sólida bagagem de 15 anos na indústria aeronáutica (Embraer)**, onde atuei como Inspetor de Qualidade. Essa experiência moldou minha disciplina para **identificação de falhas, rigor técnico e metodologias ágeis (Kaizen/5S)**, competências que hoje aplico para elevar o padrão de qualidade no desenvolvimento de software.
 
 Atualmente, atuo com foco em **Automação de Testes (Playwright/Cypress)**, **Testes de API** e **Estratégia de Testes Manuais**, buscando sempre entregar produtos robustos e focados na experiência do usuário.
 
@@ -31,7 +33,7 @@ Principais cases técnicos desenvolvidos:
 
 **Montador e Inspetor de Qualidade | Embraer S/A** _(Fev/2007 – Mai/2022)_
 * Atuação focada em garantia de qualidade e inspeção rigorosa.
-* Liderança em projetos de **Lean Manufacturing**, reduzindo desperdícios e otimizando processos produtivos.
+* Participação em projetos de **Lean Manufacturing**, reduzindo desperdícios e otimizando processos produtivos.
 
 ---
 
