@@ -1,83 +1,84 @@
 # Olá, eu sou o Danilo Gianini Melin 👋
 
-## Analista de Qualidade de Software (QA) | Automação de Testes
+## Analista de Qualidade de Software (QA) | Automação & Estratégia
 
-Profissional em transição de carreira para a área de tecnologia, com ampla experiência prévia na indústria de aviação, onde desenvolvi uma forte cultura de **qualidade, melhoria contínua (Kaizen) e metodologias ágeis**. Hoje, aplico essa mesma disciplina e atenção aos detalhes para garantir a entrega de software robusto e de alta qualidade.
+Sou um profissional em transição de carreira para a tecnologia, trazendo uma **bagagem de 15 anos na indústria aeronáutica (Embraer)**. Minha experiência como Inspetor de Qualidade moldou minha mentalidade voltada para **processos, melhoria contínua (Kaizen/5S) e rigor técnico**, características que hoje aplico para garantir a excelência em software.
 
-Sou apaixonado por encontrar bugs, otimizar processos e automatizar testes para garantir a melhor experiência possível para o usuário final.
+Atualmente, atuo com foco em **Automação de Testes (Playwright/Cypress)**, **Testes de API** e **Estratégia de Testes Manuais**, buscando sempre entregar produtos robustos e focados na experiência do usuário.
 
 ---
 
-### 🚀 Destaque de Projeto (Bootcamp de Quality Assurance)
+### 🚀 Destaques do Portfólio
 
-Em um projeto intensivo de QA, nossa equipe demonstrou um profundo impacto na qualidade de uma aplicação existente. Através de um plano de testes estruturado, alcançamos os seguintes resultados:
+Minha atuação é comprovada por projetos práticos que simulam ambientes reais de desenvolvimento.
 
--   **📊 Testes Executados:** 65 casos de teste gerenciados na plataforma Qase.
--   **🐞 Bugs Encontrados:** **96 bugs** identificados e reportados, classificados por criticidade:
-    -   **28** Críticos/Blockers
-    -   **31** Graves
-    -   **24** Moderados
-    -   **13** Leves
--   **✅ Cobertura de Testes:** 100% de cobertura, dividida entre 63% de fluxos de teste e 37% de testes exploratórios.
+> **📂 [Acesse meu Portfólio Completo de Testes Manuais & Estratégia](./Portfolio-Testes-Manuais)**
+
+Principais cases técnicos desenvolvidos:
+* **🛒 E-commerce Luma:** Gestão de defeitos e validação de regras de negócio (Jira/Zephyr).
+* **⚡ Loja Virtual IJJ:** Auditoria de **Performance e SEO** com Google Lighthouse e arquitetura AWS.
+* **📦 Sistema de Estoque (API):** Testes de **Segurança e Integração** em API REST (Postman/Swagger), identificando falhas críticas de acesso (Broken Access Control).
 
 ---
 
 ### 💼 Experiência Profissional
 
-**Estagiário em Quality Assurance** @ IEZ! Telecom (Fev/2025 – Ago/2022)
+**Estagiário em Quality Assurance | IEZ! Telecom** _(Fev/2025 – Ago/2025)_
+* Responsável pela elaboração e execução de planos de teste.
+* **Automação:** Automatizei **38%** de um total de 58 cenários de teste (E2E) utilizando **Playwright com TypeScript**.
+* **API & Performance:** Realizei validação de contratos com **Postman** e testes de carga com **K6**.
+* **Resultados:** Identifiquei e reportei 20 bugs em ambientes de homologação e produção.
 
--   Responsável pela elaboração e execução de planos de teste manuais e automatizados.
--   Automatizei **38%** de um total de 58 cenários de teste, utilizando **Playwright com TypeScript**.
--   Identifiquei e reportei **20 bugs** que impactavam a experiência do usuário.
--   Realizei testes de API utilizando **Postman** para validar endpoints e contratos.
--   Executei testes de performance com **K6** para identificar gargalos na aplicação.
+**Montador e Inspetor de Qualidade | Embraer S/A** _(Fev/2007 – Mai/2022)_
+* Atuação focada em garantia de qualidade e inspeção rigorosa.
+* Liderança em projetos de **Lean Manufacturing**, reduzindo desperdícios e otimizando processos produtivos.
 
 ---
 
-### 🛠️ Minha Stack de Ferramentas e Tecnologias
+### 🛠️ Tech Stack & Ferramentas
 
-**Automação de Testes Web:**
+**Automação e Web:**
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?&style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
 
-**Testes de API & Performance:**
+**API, Performance & Cloud:**
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/K6-8A46FF?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-**Linguagens e Ambientes:**
+**Gestão e Processos:**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-**Documentação, BDD & Gestão:**
-<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zephyr_Scale-5E60BA?style=for-the-badge&logo=zephyr&logoColor=white" />
   <img src="https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge&logo=qase&logoColor=white" />
   <img src="https://img.shields.io/badge/Gherkin-00A99D?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
-**Controle de Versão:**
+**Linguagens:**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 🎓 Formação e Cursos
+### 🎓 Formação
 
--   **Análise e Desenvolvimento de Sistemas** - Faculdade Descomplica (Conclusão em Dez/2025)
--   **Curso Bugou? O QA tá On!** - Instituto Joga Junto (Foco em Selenium, Gherkin, Jira)
--   **Bootcamp de Quality Assurance** - Atlântico Avanti (Foco em Cypress, Plano de Testes, Report de Bugs)
+* **Análise e Desenvolvimento de Sistemas** | Faculdade Descomplica _(Dez/2025)_
+* **Curso Bugou? O QA tá On!** | Instituto Joga Junto _(Foco em Selenium, API e Processos Ágeis)_
+* **Bootcamp QA** | Atlântico Avanti _(Foco em Cypress)_
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-melin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmelin88@gmail.com)
