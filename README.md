@@ -1,6 +1,6 @@
 # Olá, eu sou o Danilo Gianini Melin 👋
 
-## Analista de Qualidade de Software (QA) | Automação & Estratégia
+## Analista de Qualidade de Software (QA) | Automação
 
 Sou um **Analista de Quality Assurance** focado em garantir a excelência de produtos digitais através de automação de testes, validação de APIs e melhoria contínua de processos.
 
@@ -14,7 +14,7 @@ Atualmente, atuo com foco em **Automação de Testes (Playwright/Cypress)**, **T
 
 Minha atuação é comprovada por projetos práticos que simulam ambientes reais de desenvolvimento.
 
-> **📂 [Acesse meu Portfólio Completo de Testes Manuais & Estratégia](./portfolio-testes-manuais)**
+> **📂 [Acesse meu Portfólio Completo de Testes Manuais & Estratégia](https://github.com/daniloMelin/portfolio-testes-manuais)**
 
 Principais cases técnicos desenvolvidos:
 * **🛒 E-commerce Luma:** Gestão de defeitos e validação de regras de negócio (Jira/Zephyr).
