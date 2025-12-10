@@ -21,15 +21,17 @@ Atuo principalmente com:
 
 Principais cases técnicos desenvolvidos:
 
-- **🚀 [ShortBeyond - API Testing](https://github.com/daniloMelin/shortbeyond):** Automação de testes de API REST com **Playwright**. Foco em boas práticas, cobrindo validações de contrato, regras de negócio e fluxos de usuário. (Bootcamp TestBeyond).
+- **🚀 [ShortBeyond - Teste de API e Performance](https://github.com/daniloMelin/shortbeyond):** Estratégia completa de testes de API.
+  - **Funcional:** Automação com **Playwright**, arquitetura em Camada de Serviços, Factories e Fixtures.
+  - **Performance:** Testes de Carga e Pico com **Artillery**, identificando gargalos críticos de infraestrutura (Rate Limiting).
 
 - **🎬 [GMS - Automação End-to-End](https://github.com/daniloMelin/gms-test):**  Simulação completa de uma sprint ágil. Automação de testes de UI e API com **Cypress**, validação de contratos e pipeline de **CI/CD (Github Actions)**.
 
 - **📦 Sistema de Estoque (API):** Testes de **Segurança e Integração** em API REST (Postman/Swagger), identificando falhas críticas de acesso (Broken Access Control).
   
-- **🛒 E-commerce Luma:** Gestão de defeitos e validação de regras de negócio.
-  
 - **⚡ Loja Virtual IJJ:** Auditoria de **Performance e SEO** com Google Lighthouse e arquitetura AWS.
+
+- **🛒 E-commerce Luma:** Gestão de defeitos e validação de regras de negócio.
 
 ---
 
@@ -53,31 +55,27 @@ Principais cases técnicos desenvolvidos:
 ### 🛠️ Tech Stack & Ferramentas
 
 **Automação e Web:**
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?&style=for-the-badge&logo=cypress&logoColor=white" />
-</p>
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?&style=for-the-badge&logo=cypress&logoColor=white)
 
 **API e Performance:**
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" />
-</p>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Google Lighthouse](https://img.shields.io/badge/Google_Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 
 **Gestão e Processos:**
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge&logo=qase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gherkin-00A99D?style=for-the-badge&logo=cucumber&logoColor=white" />
-</p>
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Qase](https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge&logo=qase&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-00A99D?style=for-the-badge&logo=cucumber&logoColor=white)
 
 **Linguagens:**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
