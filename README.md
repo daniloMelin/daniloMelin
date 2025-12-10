@@ -82,6 +82,7 @@ Principais cases técnicos desenvolvidos:
 ### 🎓 Formação
 
 - **Análise e Desenvolvimento de Sistemas** | Faculdade Descomplica
+- **Bootcamp Testes de Performance com Artillery** | TestBeyond _(Foco em Testes de Carga, Pico e Stress)_
 - **Bootcamp Playwright Além da Interface** | TestBeyond _(Automação de API e Boas Práticas)_
 - **Jornada QA (Automação e Processos Ágeis)** | EBAC - Escola Britânica de Artes Criativas e Tecnologia _(Foco em Cypress)_
 - **Curso Bugou? O QA tá On!** | Instituto Joga Junto _(Foco em Selenium, API e Processos Ágeis)_
